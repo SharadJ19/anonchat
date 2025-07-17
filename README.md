@@ -34,7 +34,7 @@
   <img src="https://your-screenshot-or-gif-link.gif" alt="AnonChat Demo" width="80%"/>
 </p>
 
-🔗 **[Live Demo →](https://anonchat-w4dw.onrender.com)**
+🔗 **Live Demo →** *([https://anonchat-w4dw.onrender.com](https://anonchat-w4dw.onrender.com))*
 
 ## 🛠️ Installation
 
