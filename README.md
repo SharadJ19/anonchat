@@ -13,20 +13,20 @@
 
 ## ✨ Features
 
-- 🧑‍🤝‍🧑 Anonymous real-time chat with dynamic Anon names (e.g., Anon1, Anon2…)  
-- 🗳️ Create polls with custom options  
-- ✅ All users can vote and see live poll results  
-- ⚡ Built using Socket.io for real-time bi-directional communication  
+- 🧑‍🤝‍🧑 Anonymous real-time chat with dynamic Anon names (e.g., Anon1, Anon2…)
+- 🗳️ Create polls with custom options
+- ✅ All users can vote and see live poll results
+- ⚡ Built using Socket.io for real-time bi-directional communication
 - 📱 Responsive and minimal UI (TailwindCSS powered)
 
 ## 🏷️ Tech Stack
 
-| Layer      | Tech                                  |
-|------------|----------------------------------------|
-| Frontend   | HTML, Tailwind CSS, JavaScript         |
-| Backend    | Node.js, ExpressJS                     |
-| Real-Time  | Socket.io                              |
-| Deployment | [Render.com](https://render.com)       |
+| Layer      | Tech                             |
+| ---------- | -------------------------------- |
+| Frontend   | HTML, Tailwind CSS, JavaScript   |
+| Backend    | Node.js, ExpressJS               |
+| Real-Time  | Socket.io                        |
+| Deployment | [Render.com](https://render.com) |
 
 ## 📺 Live Demo
 
@@ -51,7 +51,7 @@ npm start
 cd ../frontend
 npm install
 npm run dev
-````
+```
 
 ## 👨‍💻 Author
 
