@@ -1,48 +1,52 @@
-# 🕶️ Anonymous Chat & Poll App 🗳️
+# 🚀 AnonChat - Anonymous Chat & Poll App
 
-A simple, responsive, anonymous chat application with poll creation and voting features, built with **Express.js** and **Socket.IO**. Perfect for anonymous discussions and quick polls! 🚀
-
-![anonchat](https://github.com/user-attachments/assets/cd164669-bdb3-4bd6-b4e2-b0846e719ab4)
+_A real-time anonymous chat application with live poll creation and voting. Built for quick, no-login discussions and group decision-making._
 
 ## ✨ Features
 
-- **👤 Anonymous Chat**: Users are assigned names like `anon1`, `anon2`, `anon3` for easy anonymity.
-- **📊 Poll Creation**: Users can create polls with custom options.
-- **📈 Live Voting**: All users can vote in polls and see live updates.
-- **📱 Responsive Design**: Comfortable experience on both desktop and mobile.
+- Anonymous real-time chat (e.g., anon1, anon2, anon3 etc.)
+- Create polls with multiple custom options
+- All users can vote and see live poll results
+- Socket.io-based real-time interaction
 
-## 🛠️ Setup
+## 🏷️ Tech Stack
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/SharadJ19/anonchat.git
-    cd anonchat
-    ```
+**Frontend:** HTML, Tailwind CSS, JavaScript  
+**Backend:** Node.js, ExpressJS  
+**Real-Time:** Socket.io  
+**Cloud & Deployment:** Render.com  
 
-2. **Install Dependencies**:
-    ```bash
-    npm install
-    ```
+## 📺 Demo
 
-3. **Run the App**:
-    ```bash
-    node server.js
-    ```
+![Demo Screenshot or GIF](link-to-your-screenshot-or-gif)  
+🔗 [Live Demo](https://anonchat-w4dw.onrender.com)
 
-4. **Access the App**: Open [http://localhost:3000](http://localhost:3000) in your browser. 🌐
+## 🛠️ Installation
 
-## 🧑‍💻 Tech Stack
+```bash
+git clone https://github.com/sharadj19/anonchat.git
+cd anonchat/backend
+npm install
+npm start
 
-- **Backend**: Node.js, Express, Socket.IO
-- **Frontend**: HTML,  TailwindCSS, JavaScript
+cd ../frontend
+npm install
+npm run dev
+````
 
-## 🎉 Usage
+## 👨‍💻 Author
 
-- **Chat Anonymously**: Join the chat and start chatting without revealing your identity. 🕵️‍♂️
-- **Create Polls**: Create polls with custom options and let others vote. 📝
-- **Vote in Real-Time**: See live updates as votes come in. 📊
+**Sharad Chandel**
+[🔗 LinkedIn](https://www.linkedin.com/in/sharadchandel2005/)
+[🌐 Portfolio](https://sharad.is-a.dev/)
+📩 [sharadchandel2005@email.com](mailto:sharadchandel2005@email.com)
 
-## 🙌 Contributing
+## 📝 License
 
-Contributions are welcome! Feel free to open an issue or submit a pull request. 🤝
-Enjoy the app and happy chatting! 🎉
+This project is licensed under the GNU General Public License v3.0.
+See the [LICENSE](./LICENSE) file for details.
+
+## 🤝 Contribution
+
+Pull requests are welcome.
+If you want to make major changes, **open an issue first** to discuss what you want to change.
