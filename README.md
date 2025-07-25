@@ -30,11 +30,16 @@
 
 ## 📺 Live Demo
 
+https://github.com/user-attachments/assets/31978e1b-1341-408d-9830-50c14b373e93
+
 <p align="center">
-  <img src="https://your-screenshot-or-gif-link.gif" alt="AnonChat Demo" width="80%"/>
+  <b>🎬 Watch in High Quality →</b> <a href="https://www.youtube.com/watch?v=lT98nFS6ptg" target="_blank">YouTube</a>
 </p>
 
-🔗 **Live Demo →** *([https://anonchat-w4dw.onrender.com](https://anonchat-w4dw.onrender.com))*
+<p align="center">
+  🔗 <b>Live App →</b> <a href="https://anonchat-w4dw.onrender.com" target="_blank">anonchat-w4dw.onrender.com</a>
+</p>
+
 
 ## 🛠️ Installation
 
